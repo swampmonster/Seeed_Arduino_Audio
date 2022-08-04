@@ -105,6 +105,7 @@
 #include "mixer.h"
 #include "play_memory.h"
 #include "output_dac.h"
+#include "output_dacs.h"
 #include "synth_tonesweep.h"
 #include "synth_sine.h"
 #include "synth_dc.h"
